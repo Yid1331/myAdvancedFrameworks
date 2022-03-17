@@ -11,3 +11,4 @@ https://github.com/Yid1331/myAdvancedFrameworks/blob/main/LabWork04/doggy.ipynb
 
 
 ## Video Presentation
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4ac8a82f-5040-4ffc-a7e1-ae5b014859b2
