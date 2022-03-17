@@ -1,7 +1,7 @@
 # Basic Colorful Sound Track
 I used ofxMaxim addons to generate some basic sound waves, and used openframeworks to visualize the sound waves.
 
-## Coding:
+## Project Code:
 https://github.com/Yid1331/myAdvancedFrameworks/tree/main/LabWork01/projectCode/src
 
 ## Video Presentation:
