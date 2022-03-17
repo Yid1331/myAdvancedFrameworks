@@ -19,3 +19,13 @@ https://github.com/Yid1331/myAdvancedFrameworks/blob/main/LabWork03/faces.ipynb
 
 ## Video Presentaion
 https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=b41a44d0-8749-40f4-87f2-ae5b011bed52
+
+
+# Pokémon
+## Crawled 100 Pokémon as my dataset and name them sequentially.
+
+![Screenshot_4](https://user-images.githubusercontent.com/81423727/158859463-910d9aad-8945-4721-812c-26c67f4f86cb.png)
+
+## Some simple water wave effects were processed.
+
+![Screenshot_5](https://user-images.githubusercontent.com/81423727/158859735-f4699f09-cb9f-4534-a444-68c5c36c4582.png)
