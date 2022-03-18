@@ -9,7 +9,9 @@ I was inspired by an Adobe commercial where a boy was sitting in front of his co
 ## Project Description
 A character sitting on a cosmic river of stars is using his computer's crazy output, his brain has turned into become colorful, and his surroundings are filled with many colorful bubbles generated from his brain. The audience can control the song the character is listening to by pressing a button, and as the song changes the scene will also change.
   
-![Screenshot_10](https://user-images.githubusercontent.com/81423727/159054142-8fb26578-fd4a-41b9-a871-04998f9d8ba2.png,width=30%)
+<img src=https://user-images.githubusercontent.com/81423727/159054142-8fb26578-fd4a-41b9-a871-04998f9d8ba2.png width=30%/>
+
+<img src=https://user-images.githubusercontent.com/81423727/137359258-cff9b557-a9a8-4441-9a40-46a4da9d73b1.png width=30% />
 
 ![Screenshot_11](https://user-images.githubusercontent.com/81423727/159054179-9071ca5b-db9e-45e5-8660-59e2e2b6b9f6.png)
 
