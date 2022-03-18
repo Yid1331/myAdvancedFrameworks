@@ -39,3 +39,6 @@ At first I planned to use the ply ASCII format and render model directly in open
 Finally, I chose ofxAssimModel to load the model indirectly, except that I built my model directly into the action I wanted, rather than controlling it through the Armature.
  
 <img src=https://user-images.githubusercontent.com/81423727/159054377-75221330-7d08-4e2b-bcdb-2b788ec2e5ad.png width=30%/>
+
+## Video Presentation
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dfc5964c-7d10-44f7-beb1-ae5c01247004
