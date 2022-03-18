@@ -1,5 +1,8 @@
 # My Daily Life
 
+## Video Presentation
+https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dfc5964c-7d10-44f7-beb1-ae5c01247004
+
 ## Motivation
 Through this work, I want to express my daily life, which is "sitting in front of the computer forever". Sometimes I feel that my computer contains many of my secrets: what I search for, what channels I watch, and what songs I love most. And furthermore, many of my ideas come from this old computer that has been with me for 6 years. Whenever I sit in front of it there are many little bubbles of inspiration surrounding us, and I love that feeling.
 
@@ -40,5 +43,4 @@ Finally, I chose ofxAssimModel to load the model indirectly, except that I built
  
 <img src=https://user-images.githubusercontent.com/81423727/159054377-75221330-7d08-4e2b-bcdb-2b788ec2e5ad.png width=30%/>
 
-## Video Presentation
-https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=dfc5964c-7d10-44f7-beb1-ae5c01247004
+
