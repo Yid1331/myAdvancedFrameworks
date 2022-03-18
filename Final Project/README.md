@@ -10,18 +10,16 @@ I was inspired by an Adobe commercial where a boy was sitting in front of his co
 A character sitting on a cosmic river of stars is using his computer's crazy output, his brain has turned into become colorful, and his surroundings are filled with many colorful bubbles generated from his brain. The audience can control the song the character is listening to by pressing a button, and as the song changes the scene will also change.
   
 <img src=https://user-images.githubusercontent.com/81423727/159054142-8fb26578-fd4a-41b9-a871-04998f9d8ba2.png width=30%/>
-
 <img src=https://user-images.githubusercontent.com/81423727/159054179-9071ca5b-db9e-45e5-8660-59e2e2b6b9f6.png width=30%/>
-
 <img src=https://user-images.githubusercontent.com/81423727/159054197-aa564166-4d4d-4d04-87a9-84c9d2787ea2.png width=30%/>
 
 1.Model
 Modeling with Blender and exporting the file in dae format. Use ofxAssimModelLoader function load it into openframeworks.
+
 2. Design inspiration bubble
 A for loop was used to make some randomly appearing, randomly oriented spheres. Then applied materials to them.
 
 <img src=https://user-images.githubusercontent.com/81423727/159054249-cf860ded-c9a7-45f0-9041-8bb687398f7f.png width=30%/>
-
 <img src=https://user-images.githubusercontent.com/81423727/159054288-88cac892-efcd-4e68-bc5f-dc85440975ac.png width=30%/>
 
 3.Voices
